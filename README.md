@@ -11,12 +11,12 @@ The high-level objective of this repository architecture is to separate analysis
 After cloning the repository, navigate to the root level.
 Run the script named initializeAfcEnvironment.m and wait until it completes (may take a few minutes). This script will do the following:
 
-. Clear all workspace variables
-. Close all open figures
-. Close all open Simulink diagrams
-. Set all necessary paths 
-. Load most current vehicle data (aero, mass properties, etc)
-. Trim the vehicle at nominal, hovering flight
+- Clear all workspace variables
+- Close all open figures
+- Close all open Simulink diagrams
+- Set all necessary paths 
+- Load most current vehicle data (aero, mass properties, etc)
+- Trim the vehicle at nominal, hovering flight
 
 
 ## Repository Structure
